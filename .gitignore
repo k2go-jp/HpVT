@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ビルド成果物
+*.o
+*.a
+*.so
+*.dylib
+*.out
+*.app
+
+# 実行可能ファイル
+client
+server
+hpvt
+
+# デバッグファイル
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# エディタ/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.*.sw?
+
+# コンパイラ生成ファイル
+*.d
+*.obj
+*.exe
+*.dll
+*.lib
+
+# ログファイル
+*.log
+
+# 一時ファイル
+*.tmp
+*.temp
+
